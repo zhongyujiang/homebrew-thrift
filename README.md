@@ -1,5 +1,4 @@
-## Public Homebrew for Thrift 0.13
-This is to support the ability for you to compile the StarRocks project.  More instructions at https://github.com/StarRocks/starrocks/discussions/25196
+## Public Homebrew for Thrift 0.18.1
 
-`brew install alberttwong/thrift/thrift@0.13`
+`brew install tommy-mor/thrift/thrift@0.13`
 
